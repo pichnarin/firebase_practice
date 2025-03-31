@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "790604076675",
+    "firebase_url": "https://flutter-lesson-91eec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-lesson-91eec",
+    "storage_bucket": "flutter-lesson-91eec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790604076675:android:1e8d58309f3f9035616db6",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5-QfhIwFEzT217CFSR0zgY5PSpuhh6PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
